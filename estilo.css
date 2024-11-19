@@ -1,0 +1,17 @@
+h1, h2, h3, p, table{
+    background-color: #c58a8a;
+    text-align: center;
+}
+            
+h1, h2, h3, .boss{
+    font-family: arial;
+    font-size: 27px;
+}
+p, li, a{
+    font-family: arial;
+    font-size: 16px;
+}
+.test{
+    text-decoration: underline;
+    font-weight: bold;
+}
